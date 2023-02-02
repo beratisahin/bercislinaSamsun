@@ -53,7 +53,7 @@ function Home() {
       <div className="row m-2">
         <div className="col-lg-12  col-12 harita" style={{marginTop:"2.5rem"}}>
                       <p className="harita_baslik">Lokasyonumuz</p>
-                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1586.724942026371!2d38.27521734784108!3d37.76275475365209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x15331347d5cc339b%3A0x8ff2dc003ae415d3!2sAd%C4%B1yaman%20Blue%20Liva%20G%C3%BCzellik%20Salonu!5e0!3m2!1str!2str!4v1663228147423!5m2!1str!2str" 
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11990.761857777812!2d36.3331468!3d41.2938407!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x278eaac730b88cd6!2sBercislina%20G%C3%BCzellik%20Merkezi%20Samsun!5e0!3m2!1str!2str!4v1675382125348!5m2!1str!2str" 
                   className="googleharita" style={{width:"100%", height:"45rem", frameBorder:"0", allowFullScreen:"",referrerpolicy:"no-referrer-when-downgrade", ariaHidden:"false", tabIndex:"0",border:"2px #e30387 solid",paddingBottom:"0.5rem",paddingTop:"0.5rem"}}> </iframe>
             </div> 
       </div>

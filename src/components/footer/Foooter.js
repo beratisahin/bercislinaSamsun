@@ -166,7 +166,7 @@ Samsun Bercislina Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikleri
             <p style={{  fontSize: "14px", textAlign: "left" }}>
               
               <a 
-                href="https://www.google.com/maps?q=Alt%C4%B1y%C3%BCzevler+Mah.+%C4%B0maml%C4%B1k+Cad.+No:4+Merkez+/+Tokat&rlz=1C1GCEU_enTR867TR868&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi9uYK325H3AhVxS_EDHbHkA3AQ_AUoAXoECAEQAw"
+                href="https://goo.gl/maps/RnMtfRQ9r6zdbkd39"
                 target="_blank"
                 rel="noopener noreferrer"
               >
