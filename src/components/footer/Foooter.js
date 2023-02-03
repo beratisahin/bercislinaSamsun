@@ -199,7 +199,7 @@ Samsun Bercislina Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikleri
 
 
           <div className="roof-location">
-              <a href="https://goo.gl/maps/7ryRSpGz7PPH1rZW9" className="location_float" target="_blank" rel="noopener noreferrer">
+              <a href="https://goo.gl/maps/RnMtfRQ9r6zdbkd39" className="location_float" target="_blank" rel="noopener noreferrer">
                   <LocationOnIcon className="location-icon"/>
               </a>
           </div>
