@@ -47,9 +47,8 @@ export default class Foooter extends Component {
               }}
             >
               {" "}
-              Samsun Bercislina Güzellik Merkezi olarak hastalarımıza ve danışanlarımıza farklı medikal alanlarda hizmet sunmaktayız. Medikal estetikten saç ekimine kadar, son teknoloji cihazlarımız ve uzman ekibimizle her adımda yanınızdayız.
-
-Samsun Bercislina Güzellik Merkezi olarak, hastalarımıza ulaşmak istedikleri görünümü kazandırmak için farklı tedavi seçenekleri sunuyoruz. 
+              Samsun Bercislina Güzellik Merkezi olarak danışanlarmıza lazer epilasyon, slim zayıflama, g5 masajı, kavitasyon, 
+              hydrafacial ve medikal cilt bakımı hizmetlerini vermekteyiz.  Vizyon ve misyon çerçevesinde, ana ilkemiz olan bizim emeğimiz, sizin mutluluğunuz ve ortak başarımızdır sözünü ‘’ Güzellik Herkesin Hakkıdır ‘’ sloganı ile taçlandıran Bercislina Güzellik Merkezi, yıllardır bize duyulan güven ve yaklaşımlara layık olmanın mutluluğunu yaşamaktadır.
             </p>
           </div>
 

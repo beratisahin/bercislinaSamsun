@@ -17,13 +17,22 @@ function Hakkimizda() {
             <div className="card-body col-12" style={{padding:"3rem"}}>
                 <br/>
                 <p class="hizmetyazi">Huzurlu atmosferi, güvenliği, teknolojik donanımı, deneyimli güler yüzlü ekibi ile estetik ve güzellik sektöründe Samsun’da merkezi konumuyla siz değerli müşterilerimizin hizmetinizdedir.
-                    Lazer Epilasyon, Dermatolojik ürünlerle Cilt Bakımı, Kalıcı Makyaj, Bölgesel Zayıflama, Profesyonel Makyaj, Kaş Tasarımı hizmetlerimiz profosyenel ürünlerle kaliteden ödün vermeden uygulanmaktadır. Ayrıca en son teknoloji Lazer Epilasyon Cihazı ile istenmeyen tüylerden en kısa sürede kurtularak, pürüzsüz bir cilde kavuşuyorsunuz.
-                    Ailenizden biri olmayı amaçlayan Adıyaman Blue Liva Güzellik Salonu; son derece güvenli, hijyenik ve modern olan ve aynı zamanda zevkli bir tasarıma sahip olan salonu ile değerli müşterilerine kendilerini evlerinde hissedecekleri sıcak, samimi ve konforlu bir ortam sunmaya devam ediyor.
+                    Lazer Epilasyon, Dermatolojik ürünlerle Cilt Bakımı, Bölgesel Zayıflama, Profesyonel Makyaj, Kaş Tasarımı hizmetlerimiz profosyenel ürünlerle kaliteden ödün vermeden uygulanmaktadır. Ayrıca en son teknoloji Lazer Epilasyon Cihazı ile istenmeyen tüylerden en kısa sürede kurtularak, pürüzsüz bir cilde kavuşuyorsunuz.
+                    Ailenizden biri olmayı amaçlayan Samsun Bercislina Güzellik Salonu; son derece güvenli, hijyenik ve modern olan ve aynı zamanda zevkli bir tasarıma sahip olan salonu ile değerli müşterilerine kendilerini evlerinde hissedecekleri sıcak, samimi ve konforlu bir ortam sunmaya devam ediyor.
                 </p> 
                 <p class="hizmetyazi">
                     Yılların verdiği özgüven ve tecrübe ile daima en iyiyi hedefleyen bu doğrultu da yıllardır ekip ve ekipmanı ile sektörün vazgeçilmezi olmak için emin adımlarla, şehrin gözdesi Samsun, Cumhuriyet Mydanında ileri seviye hizmet vermektedir.
                     Kadın ve erkeklere özel ayrı salonlarımızda, memnuniyet ve sonuç odaklı profesyonel uygulamalar yapıyoruz. 
                 </p> 
+                <p class="hizmetyazi">
+                Güzellik anlayışının sağlıkla ön planda tutulduğu güzellik merkezimde, koşulsuz müşteri memnuniyeti sunma amaçlı konusunda deneyimli ve profesyonel bir ekip tarafından hizmet vermektedir.
+
+Günümüz koşullarında her gün yenilenen teknolojinin birebir takipçisi olan merkezimiz de FDA ( Dünya Sağlık Örgütü ) onayı almış teknolojik sağlık, zayıflama ve güzellik ekipmanları kullanmaktadır.
+
+Bercislina güzellik merkezinde tüm işlemler öncesi, konunun uzmanları tarafından doğru hizmet kalitesini sunabilmek amacı müşterinin gereksinim analiz yapılarak, ihtiyaca yönelik bakım ve uygulamalar gerçekleşmektedir.
+
+Vizyon ve misyon çerçevesinde, ana ilkemiz olan bizim emeğimiz, sizin mutluluğunuz ve ortak başarımızdır sözünü ‘’ Güzellik Herkesin Hakkıdır ‘’ sloganı ile taçlandıran Bercislina Güzellik Merkezi, yıllardır bize duyulan güven ve yaklaşımlara layık olmanın mutluluğunu yaşamaktadır.
+                </p>
 
                 <p class="hizmetyazi">
                 Samsun Bercislina Güzellik Merkezi olarak Lazer Epilasyon, G5 Masajı, Kavitasyon, Kirpik Lifting, Kaş Laminasyonu, Medikal ve Hydrafacial Cilt Bakımı hizmetlerimiz mevcuttur. Kampanyalarımız ve detaylar için sosyal medya hesaplarımızı takipte kalın.

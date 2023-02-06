@@ -55,7 +55,7 @@ export default class TopluHizmet extends Component {
         </div>
         <div class="col-lg-4 col-md-6 col-sm-12 col-12">
           <Taslak
-            taslaktitle="Robotix Lazer Epilasyon"
+            taslaktitle="Lazer Epilasyon"
             taslakphoto={m5}
             taslaktext="Samsun Bercislina Güzellik Salonu olarak siz değerli müşterilerimize lazer epilasyon, cilt bakımı ve bölgesel incelme vb alanlarda hizmet vermekteyiz."
             taslaklink="/robotix-lazer-epilasyon"
