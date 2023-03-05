@@ -85,7 +85,7 @@ export default class Foooter extends Component {
                         </tr>
                         <tr>
                             <td>Pazar</td>
-                            <td>Kapalı</td>
+                            <td>09:30 - 19:30</td>
                         </tr>
                       
                     </tbody>
