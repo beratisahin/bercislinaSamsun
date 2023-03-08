@@ -172,7 +172,7 @@ export default class Foooter extends Component {
                 <HomeIcon style={{fontSize:"24px"}}/>
               </a>
               &nbsp;
-              Kale Mahalesi Hacı Hatun Sokak No:1 Fatih İş Merkezi <br/> C Blok  Kat: 3 <b style={{paddingLeft:"10px"}}>İlkadım / SAMSUN</b>{" "}
+              Kale Mahallesi Hacı Hatun Sokak No:1 Fatih İş Merkezi <br/> C Blok  Kat: 3 <b style={{paddingLeft:"10px"}}>İlkadım / SAMSUN</b>{" "}
 
              
             </p>
